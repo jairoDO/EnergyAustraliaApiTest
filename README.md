@@ -1,6 +1,5 @@
 # EnergyAustraliaApiTest
-Energy Australia Api Test
---------------------------
+
 
 The problem
 -----------
@@ -19,6 +18,5 @@ If you have pipenv installed you have to run <code> pipenv install </code> or if
 python EnergyAustraliaApiTest.py
 
 
-# Conclution
-
+# Conclusion
 I found the response is not respected the schema given for MusicalFestival, and Band
