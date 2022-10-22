@@ -10,7 +10,7 @@ The data is provided to you via an API by another team; they assure you all the 
 # Requirements 
 - Python3
 - pipenv or pip
-- allure
+- allure (https://docs.qameta.io/allure-report/#_installing_a_commandline)
 
 # Set up
 If you have pipenv installed you have to run <code> pipenv install </code> or if you  use pip run <code>pip install -r requirements.txt</code>
