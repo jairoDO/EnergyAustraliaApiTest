@@ -10,12 +10,16 @@ The data is provided to you via an API by another team; they assure you all the 
 # Requirements 
 - Python3
 - pipenv or pip
+- allure
 
 # Set up
 If you have pipenv installed you have to run <code> pipenv install </code> or if you  use pip run <code>pip install -r requirements.txt</code>
 
 # Run The test
-python EnergyAustraliaApiTest.py
+python EnergyAustraliaApiTest.py --alluredir reports
+
+# Generate the report
+allure serve reports
 
 
 # Conclusion
